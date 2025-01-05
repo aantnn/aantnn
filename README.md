@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antnn, developer
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: anton@valishin.ru, with [PGP KEY](https://github.com/antnn/antnn/blob/main/Anton%20Valishin.asc) encryption
+- 📫 How to reach me: anton@valishin.ru
 - 🎥 [Youtube channel](https://www.youtube.com/@valishinav)
 
 For nearly 27 years I navigated life without any passport or ID and without official citizenship as stateless person, devoid of formal identification (passport) or any travel documents. <br>
