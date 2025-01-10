@@ -115,8 +115,6 @@ https://github.com/antnn/gists/blob/main/network-manager-bug-1641.sh
 
 ---
 ## 🛠️ Навыки
-
-**Языки:**  
 **Языки:**  
 - 🇷🇺 Русский — Родной  
 - 🇬🇧 Английский — B2 (Средне-продвинутый)  
