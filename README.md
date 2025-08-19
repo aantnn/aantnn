@@ -18,7 +18,10 @@ and https://www.statelessness.eu/ <br>
 Born in 1991, Riga Latvia. <br>
 
 ### UNHCR from 2006.pdf
-Here AI translation and original file
+Here AI translation and original file:
+### Notice: 
+They said: "We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for **identity determination and Russian citizenship**"
+
 > **UNHCR – United Nations High Commissioner for Refugees**<br>
 **Haut Commissariat des Nations Unies pour les réfugiés**<br>
 **УПРАВЛЕНИЕ ВЕРХОВНОГО КОМИССАРА ООН ПО ДЕЛАМ БЕЖЕНЦЕВ**<br>
