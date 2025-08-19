@@ -18,6 +18,27 @@ and https://www.statelessness.eu/ <br>
 Born in 1991, Riga Latvia. <br>
 
 ### UNHCR from 2006.pdf
+Here AI translation and original file
+> **UNHCR – United Nations High Commissioner for Refugees**<br>
+**Haut Commissariat des Nations Unies pour les réfugiés**<br>
+**УПРАВЛЕНИЕ ВЕРХОВНОГО КОМИССАРА ООН ПО ДЕЛАМ БЕЖЕНЦЕВ**<br>
+105064, Moscow<br>
+Per. Obukha, 6<br>
+Tel.: (7 503) 232‑30‑<br>
+Fax: (7 503) 232‑30‑16/17 Email: rusmo@unhcr.ch<br>
+13 January 2005 No. RUSMO/MSC/0022<br>
+Dear Ms. Valishina,<br>
+In connection with your appeal to the Representation of the UNHCR in the Russian Federation, please take note of the following information.<br>
+In accordance with its mandate, the UNHCR in the Russian Federation is tasked with assisting the authorities in ensuring legal protection to refugees from other countries and, accordingly, does not have the authority to intervene in the consideration of your case.<br>
+We recommend that you contact the appropriate authorities of the Russian Federation that have the competence to consider such matters.<br>
+Sincerely,<br>
+Gang Li<br>
+Head of the Legal Department of UNHCR in Moscow<br>
+P.S.: Your documents and letter‑request have been forwarded to the organization “Civic Assistance” (address: Dolgorukovskaya St., 33, bldg. 6; tel.: 973‑54‑74, ‑43).<br>
+To Ms. Valishina S. N.<br>
+Latvia, Jurmala, pr. Valiira, 2<br>
+
+
 [UNHCR from 2006.pdf](https://github.com/user-attachments/files/21868005/UNHCR.from.2006.pdf)
 
 ### UNHCR asking Russia to grant me Russian citizenship in 2016
