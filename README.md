@@ -16,7 +16,6 @@ See more about [Statelessness UNHCR](https://www.unhcr.org/ibelong/about-statele
 and https://www.statelessness.eu/ <br>
 
 Born in 1991, Riga Latvia.
-<!---
-antnn/antnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![UNHCR asking to grant me Russian citizenship in 2016](https://github.com/user-attachments/assets/107980d3-d35b-4885-8ffe-49cd829fd502)
+[UNHCR from 2006.pdf](https://github.com/user-attachments/files/21868005/UNHCR.from.2006.pdf)
+![reentry garantee to Latvia from 1993](https://github.com/user-attachments/assets/8607e198-413e-4bb1-a598-efa06d17d244)
