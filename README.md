@@ -19,9 +19,6 @@ Born in 1991, Riga Latvia. <br>
 
 ### UNHCR from 2006.pdf
 Here AI translation and original file:
-### Notice: 
-They said: "We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for **identity determination and Russian citizenship**"
-
 > **UNHCR – United Nations High Commissioner for Refugees**<br>
 **Haut Commissariat des Nations Unies pour les réfugiés**<br>
 **УПРАВЛЕНИЕ ВЕРХОВНОГО КОМИССАРА ООН ПО ДЕЛАМ БЕЖЕНЦЕВ**<br>
@@ -46,6 +43,9 @@ Latvia, Jurmala, pr. Valiira, 2<br>
 
 ### UNHCR asking Russia to grant me Russian citizenship in 2016. However I asked about travel document for stateless to return to Latvia
 Here AI translation and AI OCR and original file in Russian
+### Notice: 
+UNHCR rep. said: "We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for **identity determination and Russian citizenship**"
+
 > **UNHCR – Office of the United Nations High Commissioner for Refugees**<br>
 > Representation in the Russian Federation<br>
 > Leontievsky Lane 9, Moscow, 125009<br>
