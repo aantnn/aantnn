@@ -15,7 +15,7 @@ It took almost two decades of persistent effort and struggle (sometimes, literal
 See more about [Statelessness UNHCR](https://www.unhcr.org/ibelong/about-statelessness/) <br> 
 and https://www.statelessness.eu/ <br>
 
-Born in 1991, Riga Latvia.
+Born in 1991, Riga Latvia. <br>
 [UNHCR from 2006.pdf](https://github.com/user-attachments/files/21868005/UNHCR.from.2006.pdf)
 ![UNHCR asking to grant me Russian citizenship in 2016](https://github.com/user-attachments/assets/107980d3-d35b-4885-8ffe-49cd829fd502)
 ![reentry garantee to Latvia from 1993](https://github.com/user-attachments/assets/8607e198-413e-4bb1-a598-efa06d17d244)
