@@ -17,6 +17,9 @@ and https://www.statelessness.eu/ <br>
 
 Born in 1991, Riga Latvia. <br>
 
+Here files:
+-  [Latvian reentry guarantee](https://github.com/aantnn/aantnn/tree/main?tab=readme-ov-file#reentry-garantee-to-latvia-from-1993)
+
 ### UNHCR from 2006.pdf
 Here AI translation and original file:
 > **UNHCR – United Nations High Commissioner for Refugees**<br>
