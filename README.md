@@ -18,7 +18,7 @@ and https://www.statelessness.eu/ <br>
 Born in 1991, Riga Latvia. <br>
 
 Here files:
--  [Latvian reentry guarantee](https://github.com/aantnn/aantnn/tree/main?tab=readme-ov-file#reentry-garantee-to-latvia-from-1993)
+-  [Latvian reentry guarantee](https://github.com/user-attachments/assets/8607e198-413e-4bb1-a598-efa06d17d244)
 
 ### UNHCR from 2006.pdf
 Here AI translation and original file:
