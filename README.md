@@ -41,7 +41,7 @@ Latvia, Jurmala, pr. Valiira, 2<br>
 
 [UNHCR from 2006.pdf](https://github.com/user-attachments/files/21868005/UNHCR.from.2006.pdf)
 
-### UNHCR asking Russia to grant me Russian citizenship in 2016. However I asked about travel document to return to Latvia
+### UNHCR asking Russia to grant me Russian citizenship in 2016. However I asked about travel document for stateless to return to Latvia
 Here AI translation and AI OCR and original file in Russian
 > **UNHCR – Office of the United Nations High Commissioner for Refugees**<br>
 > Representation in the Russian Federation<br>
