@@ -18,7 +18,7 @@ and https://www.statelessness.eu/ <br>
 Born in 1991, Riga Latvia. <br>
 
 ### Notice: 
-I've always asked about travel document for stateless to return to Latvia. and
+I've always asked about travel document for stateless to return to Latvia. and <br>
 UNHCR rep. said: <br>"We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for **identity determination and Russian citizenship**"
 
 
