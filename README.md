@@ -70,5 +70,5 @@ Head of the UNHCR Representation in the Russian Federation<br>
 
 ![UNHCR asking to grant me Russian citizenship in 2016](https://github.com/user-attachments/assets/107980d3-d35b-4885-8ffe-49cd829fd502)
 
-### Reentry garantee to Latvia from 1993
+### Reentry guarantee to Latvia from 1993
 ![reentry garantee to Latvia from 1993](https://github.com/user-attachments/assets/8607e198-413e-4bb1-a598-efa06d17d244)
