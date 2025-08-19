@@ -35,7 +35,7 @@ Based on the documents and information provided, there are grounds to assume the
 Since 1993, the applicant has resided in the Russian Federation. He possesses documentation issued by the Embassy of the Republic of Latvia confirming the absence of any citizenship.<br>
 The Federal Migration Service of Russia has replied that he may apply for identity determination and, subsequently, for Russian citizenship at the local migration office corresponding to his place of stay. However, Mr. Valishin is considered a person without a fixed place of residence, and Moscow branches of the Migration Service refuse to accept his application.<br>
 Detailed circumstances are contained in the attached statement.<br>
-We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for identity determination and Russian citizenship.<br>
+We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for **identity determination and Russian citizenship**.<br>
 Please accept our gratitude for your cooperation.<br>
 **Bansa Wak‑Voya**<br>
 Head of the UNHCR Representation in the Russian Federation<br>
