@@ -21,7 +21,7 @@ Here files:
 -  [Latvian reentry guarantee](https://github.com/user-attachments/assets/8607e198-413e-4bb1-a598-efa06d17d244)
 
 ### UNHCR from 2006.pdf
-Here AI translation and original file:
+Here AI translation and original file [UNHCR from 2006.pdf](https://github.com/user-attachments/files/21868005/UNHCR.from.2006.pdf):
 > **UNHCR – United Nations High Commissioner for Refugees**<br>
 **Haut Commissariat des Nations Unies pour les réfugiés**<br>
 **УПРАВЛЕНИЕ ВЕРХОВНОГО КОМИССАРА ООН ПО ДЕЛАМ БЕЖЕНЦЕВ**<br>
@@ -42,7 +42,7 @@ To Ms. Valishina S. N.<br>
 Latvia, Jurmala, pr. Valiira, 2<br>
 
 
-[UNHCR from 2006.pdf](https://github.com/user-attachments/files/21868005/UNHCR.from.2006.pdf)
+
 
 ### UNHCR asking Russia to grant me Russian citizenship in 2016. However I asked about travel document for stateless to return to Latvia
 Here AI translation and AI OCR and original file in Russian
