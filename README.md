@@ -21,6 +21,26 @@ Born in 1991, Riga Latvia. <br>
 [UNHCR from 2006.pdf](https://github.com/user-attachments/files/21868005/UNHCR.from.2006.pdf)
 
 ### UNHCR asking Russia to grant me Russian citizenship in 2016
+Here AI translation and AI OCR and original file in Russian
+> **UNHCR – Office of the United Nations High Commissioner for Refugees**<br>
+> Representation in the Russian Federation<br>
+> Leontievsky Lane 9, Moscow, 125009<br>
+> Tel: +7 495 660‑09‑01 Fax: +7 495 660‑09‑04 Email: RUSMO@unhcr.org<br>
+> Ref: RUSMO/MSC/____ «___» ________ 2016
+**To: Olga Evgenievna Kirillova**<br>
+Head of the Main Directorate for Migration Affairs, Ministry of Internal Affairs of Russia<br>
+Dear Olga Evgenievna,<br>
+The Representation of UNHCR in the Russian Federation has been contacted by **Anton Viktorovich Valishin**, born 03 March 1991 in Riga, Latvia, requesting assistance in regulating his legal status and establishing his identity.<br>
+Based on the documents and information provided, there are grounds to assume the existence of a statelessness situation.<br>
+Since 1993, the applicant has resided in the Russian Federation. He possesses documentation issued by the Embassy of the Republic of Latvia confirming the absence of any citizenship.<br>
+The Federal Migration Service of Russia has replied that he may apply for identity determination and, subsequently, for Russian citizenship at the local migration office corresponding to his place of stay. However, Mr. Valishin is considered a person without a fixed place of residence, and Moscow branches of the Migration Service refuse to accept his application.<br>
+Detailed circumstances are contained in the attached statement.<br>
+We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for identity determination and Russian citizenship.<br>
+Please accept our gratitude for your cooperation.<br>
+**Bansa Wak‑Voya**<br>
+Head of the UNHCR Representation in the Russian Federation<br>
+
+
 ![UNHCR asking to grant me Russian citizenship in 2016](https://github.com/user-attachments/assets/107980d3-d35b-4885-8ffe-49cd829fd502)
 
 ### Reentry garantee to Latvia from 1993
