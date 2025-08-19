@@ -17,6 +17,11 @@ and https://www.statelessness.eu/ <br>
 
 Born in 1991, Riga Latvia. <br>
 
+### Notice: 
+I've always asked about travel document for stateless to return to Latvia. and
+UNHCR rep. said: <br>"We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for **identity determination and Russian citizenship**"
+
+
 Here files:
 -  [Latvian reentry guarantee](https://github.com/user-attachments/assets/8607e198-413e-4bb1-a598-efa06d17d244)
 
@@ -46,8 +51,6 @@ Latvia, Jurmala, pr. Valiira, 2<br>
 
 ### UNHCR asking Russia to grant me Russian citizenship in 2016. However I asked about travel document for stateless to return to Latvia
 Here AI translation and AI OCR and original file in Russian
-### Notice: 
-UNHCR rep. said: <br>"We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for **identity determination and Russian citizenship**"
 
 > **UNHCR – Office of the United Nations High Commissioner for Refugees**<br>
 > Representation in the Russian Federation<br>
