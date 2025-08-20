@@ -1,4 +1,4 @@
-### Self-taught programmer and Devops
+### Self-taught programmer and DevOps
 
 <br>
 
