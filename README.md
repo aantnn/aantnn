@@ -11,9 +11,10 @@
 <br>
 
 ### Little bio:
-For nearly 27 years I navigated life without any passport or ID and without official citizenship as stateless person, devoid of formal identification (passport) or any travel documents. <br>
-
 Latvia unilaterally deregistered me as a resident (to nowhere) when I was still a minor child, effectively rendering me stateless without any legal recourse or court decision. They responded with a certificate stating that I was deregistered without a reasoned part why they did it. Possible violation of [UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights), [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) and [Convention on the Reduction of Statelessness](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-reduction-statelessness).  <br>
+<details>
+  <summary>More...</summary>
+
 
 My legal status remained unresolved, suspended between the bureaucracies of Russia and Latvia.  <br>
 Neither country acknowledged my right to belong, freedom of movement and return to home country (when they have annulled return visa, issued by Latvian embassy) ([UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights)), leaving me in a complex legal gray area, in undetermined state. <br>
@@ -83,3 +84,5 @@ Head of the UNHCR Representation in the Russian Federation<br>
 
 ### Reentry guarantee to Latvia from 1993
 ![reentry garantee to Latvia from 1993](https://github.com/user-attachments/assets/8607e198-413e-4bb1-a598-efa06d17d244)
+
+</details
