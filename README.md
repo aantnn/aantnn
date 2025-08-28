@@ -8,15 +8,14 @@ My legal status remained unresolved, suspended between the bureaucracies of Russ
 <br>
 It took almost two decades of persistent effort and struggle (sometimes, literally, living on the streets in Russia) to resolve the issue, by writing a bunch of letters (applications) to which I receive identical useless responses. 
 
+I've always asked about travel document for stateless to return to Latvia. and <br>
+UNHCR rep. said (2016): <br>"We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for **identity determination and Russian citizenship**"
+
 <details>
   <summary>More...</summary>
 Neither country acknowledged my right to belong, freedom of movement and return to home country (when they have annulled return visa, issued by Latvian embassy) ([UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights)), leaving me in a complex legal gray area, in undetermined state. <br
 
 Born in 1991, Riga Latvia. <br>
-
-### Please note: 
-I've always asked about travel document for stateless to return to Latvia. and <br>
-UNHCR rep. said (2016): <br>"We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for **identity determination and Russian citizenship**"
 
 
 Here files:
