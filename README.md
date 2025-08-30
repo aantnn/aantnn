@@ -8,7 +8,7 @@ My legal status remained unresolved, suspended between the bureaucracies of Russ
 <br>
 It took almost two decades of persistent effort and struggle (sometimes, literally, living on the streets in Russia) to resolve the issue, by writing a bunch of letters (applications) to which I receive identical useless responses. 
 
-I've consistently inquired about obtaining a travel document for stateless persons to return to Latvia. Even back then, censorship and restrictions were already emerging—I had a sense of where things were heading. Now, YouTube have been "slowed down" (education content, like CppCon ), confirming those concerns (foreign agents, freedom of speech, etc).
+I've consistently inquired about obtaining a travel document for stateless persons to return to Latvia. Even back then, censorship and restrictions were already emerging—I had a sense of where things were heading. Now, YouTube have been "slowed down" (education content, like CppCon ), confirming those concerns (foreign agents, freedom of speech, etc) .Strangely, many people have relatives who have been living abroad for a long time....
 
 In 2016, a UNHCR representative stated: "We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for identity determination and Russian citizenship."
 <details>
