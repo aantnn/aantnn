@@ -1,4 +1,5 @@
 ### Self-taught programmer and DevOps
+aantonn@proton.me 
 
 
 ### Little bio:
