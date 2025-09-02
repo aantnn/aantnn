@@ -9,9 +9,11 @@ My legal status remained unresolved, suspended between the bureaucracies of Russ
 <br>
 It took almost two decades of persistent effort and struggle (sometimes, literally, living on the streets in Russia) to resolve the issue, by writing a bunch of letters (applications) to which I receive identical useless responses. 
 
+**I just want to relocate, find a job and forget it all**, like it was a bad dream... About initiatives like [EEAS](https://x.com/eu_eeas/status/1955687044019069295) an US: *EU funded project was adopted to strengthen internet freedom and resilience*, [Free VPN in Eastern Europe](https://x.com/eu_eeas/status/1955687044019069295). — Thank you
+
+
 I've consistently inquired about obtaining a travel document for stateless persons to return to Latvia. Even back then, censorship and restrictions were already emerging — I had a sense of where things were heading.<br> Now, The Exit from Europe’s Anti-Torture Convention, YouTube have been "slowed down" (education content, like CppCon ), VoIP-like services banned (so you cannot chat with a friend, a penpal abroad), confirming those concerns (foreign agents, freedom of speech, [*consumers who used Western services should give up their "bad habits"*](https://www.yahoo.com/news/vladimir-putin-says-russia-needs-110300011.html), etc). Which is strange, many people received their education abroad and have relatives who have been living abroad for a long time... <br>
 
-**I just want to relocate, find a job and forget it all**, like it was a bad dream... About initiatives like [EEAS](https://x.com/eu_eeas/status/1955687044019069295) an US: *EU funded project was adopted to strengthen internet freedom and resilience*, [Free VPN in Eastern Europe](https://x.com/eu_eeas/status/1955687044019069295). — Thank you
 
 In 2016, a UNHCR representative stated: "We kindly request your assistance in resolving this matter and supporting the applicant in filing his applications for identity determination and Russian citizenship."
 <details>
